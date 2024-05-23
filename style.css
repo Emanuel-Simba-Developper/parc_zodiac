@@ -1,0 +1,29 @@
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.container{
+    margin: 20px 0;
+}
+
+#imge{
+    width: 75px;
+}
+/*
+.d-block{
+    height: 500px;
+}
+#carouselExampleDark , h5 , p {
+    color: black;
+}*/
+
+.c-item{
+    height: 480px;
+}
+
+.c-img{
+    height: 100%;
+    object-fit: cover;
+    filter: brightness(0.6);
+}
